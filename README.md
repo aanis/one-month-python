@@ -1,1 +1,3 @@
-# one-month-python
+Solution Excercies to One Month Python
+
+ 
